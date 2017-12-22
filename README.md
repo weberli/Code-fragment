@@ -1,7 +1,8 @@
 # [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code#30-seconds-of-code--) 学习笔记
 
-### Array
-----
+## Array
+### arrayGcd
+
 计算一个数组的最大公约数
 利用 [`Array.reduce()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce_clone)[ESMAScript 5] 和 `gcd` 算法计算数组里面的最大公约数
 
