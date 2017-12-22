@@ -1,1 +1,1 @@
-自用代码碎片
+# [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code#30-seconds-of-code--) 学习笔记
